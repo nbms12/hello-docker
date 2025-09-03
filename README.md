@@ -46,4 +46,6 @@ docker build -t myalpine:v1 .
 ```
 docker run -it myalpine:v1
 ```
+output : 
 
+<img width="496" height="64" alt="image" src="https://github.com/user-attachments/assets/b61c2240-e4ff-4147-ba2e-7edb423c1a05" />
