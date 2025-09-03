@@ -44,6 +44,6 @@ docker build -t myalpine:v1 .
 
 4. run
 ```
-docker run -d myalpine:v1
+docker run -it myalpine:v1
 ```
 
