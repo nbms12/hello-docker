@@ -1,9 +1,9 @@
 # hello-docker
 Aim of project : To run simple docker image
-
+project URL : https://roadmap.sh/projects/basic-dockerfile
 
 pre-req: docker installed
-steps: 
+steps to install : 
 ```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
